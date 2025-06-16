@@ -3,7 +3,7 @@ reproduce the scRNA-seq and spatial transcriptomic analysis in enthesis developm
 
 ___________________________________
 all the sc-RNA seq bam files can be found at https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1142211.
-some generated analysis rds files were uploaded here.
+some generated rds files were uploaded here.
 
 ___________________________________
-the spatial h5ad file were uploaded here.
+the spatial e14_e15_e16_mice_enthesis_10x_visium_hd.h5ad file were uploaded here.
